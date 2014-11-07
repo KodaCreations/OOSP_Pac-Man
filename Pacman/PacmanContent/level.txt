@@ -1,0 +1,16 @@
+25 15
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xfffffxfxffxfffxffffffffx
+xfxxxfxfxxfffxfgfxxxfxxfx
+xfffxffffxfxxxxfxxfffxffx
+xxxfxxxxfxfxffxfxffxfxfxx
+xffffffffffxfxxfxfxxfxffx
+xfxxxxxxfxxxpxfffffxfxxfx
+xfxfffgxffxffxfxfxxxfxffx
+xfxfxxfxxfxfxxfxfxfffxfxx
+xfxffxffxfxffffxfxxxxxffx
+xfxxxxxfxfxxxgxxfffffxxfx
+xfffffffxfffxffffxxxffxfx
+xfxxxxxfxxxfxxfxfxfxxfxfx
+xffffffffffffffxfxffffffx
+xxxxxxxxxxxxxxxxxxxxxxxxx

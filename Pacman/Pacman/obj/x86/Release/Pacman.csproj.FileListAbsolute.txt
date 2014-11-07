@@ -1,0 +1,23 @@
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\InterfaceFont.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\ButtonFont.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\MenuFont.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\character.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\world.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\menu.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Pacman.exe
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Pacman.pdb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Release\Pacman.exe
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Release\Pacman.pdb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\InterfaceFont.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\ButtonFont.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\MenuFont.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\character.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\world.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Content\menu.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Pacman.exe
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Release\Pacman.pdb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Release\Pacman.csprojResolveAssemblyReference.cache
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Release\Pacman.exe
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Release\Pacman.pdb

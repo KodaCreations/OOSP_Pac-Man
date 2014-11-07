@@ -1,0 +1,43 @@
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.pdb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.csprojResolveAssemblyReference.cache
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\Andreas\Desktop\Flyttbar disk\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe
+C:\Users\Andreas\Desktop\Flyttbar disk\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.pdb
+C:\Users\Andreas\Desktop\Flyttbar disk\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\Flyttbar disk\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andreas\Desktop\Flyttbar disk\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\Andreas\Desktop\Flyttbar disk\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\Andreas\Desktop\Flyttbar disk\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.pdb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\world.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\InterfaceFont.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\ButtonFont.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\menu.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\MenuFont.xnb
+C:\Users\Andreas\Desktop\USB Backup\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\character.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\InterfaceFont.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\ButtonFont.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\MenuFont.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\character.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\world.xnb
+G:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\menu.xnb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\InterfaceFont.xnb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\ButtonFont.xnb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\MenuFont.xnb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\character.xnb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\world.xnb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Content\menu.xnb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.pdb
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.csprojResolveAssemblyReference.cache
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+F:\Schoolwork\Visual Studio\Examinationsprojekt\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
